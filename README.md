@@ -1,4 +1,4 @@
-# sluhov
+# sluhovstore
 
 ## Project setup
 ```
